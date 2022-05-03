@@ -15,7 +15,7 @@ AutosRUs' new MechaCar is "suffering from production troubles" and the company i
 
 ## Summary Statistics on Suspension Coils
 
-> While the overall variance, as shown in the Total Summary data above, is under 100 psi and meets specifications, there is a problem with one of the individual lots. As shown in the Lot Summary stats, the variance for Lot 3 is well over the acceptable threshold, at 170.28. linear regression model shows  p-values of 2.6x10<sup>-12</sup> and 5.21x10<sup>-8</sup>, respectively. This means that the relationship between our variables and the miles per gallon is subject to more than random chance. The r-squared value of 0.7149 indicates that the model is 71% accurate.
+> While the overall variance, as shown in the Total Summary data above, is under 100 psi and meets specifications, there is a problem with one of the individual lots. As shown in the Lot Summary stats, the variance for Lot 3 is well over the acceptable threshold, at 170.28. linear regression model shows  p-values of 2.6x10<sup>-12</sup> and 5.21x10<sup>-8</sup>, respectively. This means that the relationship between our variables and the miles per gallon is subject to more than random chance. The r-squared value of 0.7149 indicates that the model is 71.49% accurate.
 
 ## T-Tests on Suspension Coils
 
